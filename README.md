@@ -88,9 +88,14 @@ Apply supervised machine learning to a customer-marketing problem and study how 
 pip install pandas numpy matplotlib seaborn scikit-learn jupyter
 ```
 
-## Internship Certificate
+## Verified Internship Credentials
 
-The completion certificate will be added after the verified certificate file is uploaded.
+| Document | Verification | Link |
+|---|---|---|
+| **Internship Certificate** | Data Science internship completed from 1-31 July 2025 with outstanding remarks; issued 8 August 2025 | [View Certificate](https://github.com/YashAgarwal-31/Prodigy_DS_01/blob/main/documents/Prodigy_InfoTech_Internship_Certificate.pdf) |
+| **Letter of Recommendation** | Recognizes performance, technical skills, professionalism, initiative, and problem-solving ability | [View Recommendation Letter](https://github.com/YashAgarwal-31/Prodigy_DS_01/blob/main/documents/Prodigy_InfoTech_Letter_of_Recommendation.pdf) |
+
+The original documents are stored once in the Task 1 repository and linked across all four task repositories because these tasks belong to the same internship.
 
 ## Author
 
